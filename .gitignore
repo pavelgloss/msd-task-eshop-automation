@@ -1,0 +1,23 @@
+# Eclipse
+.classpath
+.project
+.settings/
+
+# IntelliJ
+.idea
+/out/
+
+## File-based project format:
+*.iml
+*.iws
+
+# JIRA plugin
+atlassian-ide-plugin.xml
+
+# Mac
+.DS_Store
+
+# Maven
+log/
+target/
+**/.flattened-pom.xml
